@@ -73,7 +73,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/160462055?v=4" width="100px;"
                         alt="Chanchal Rathore" />
                     <br />
-
                     <sub>
                         <b>Chanchal Rathore </b>
                     </sub>
